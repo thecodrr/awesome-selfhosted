@@ -1436,6 +1436,7 @@ _Related: [Wikis](#wikis)_
 - [Turtl](https://turtl.it/) - Totally private personal database and note taking app. ([Source Code](https://github.com/turtl)) `GPL-3.0` `CommonLisp`
 - [Wreeto](https://wreeto.com) - Wreeto is an open source note-taking, knowledge management and wiki system built on top of Ruby on Rails framework. ([Source Code](https://github.com/chrisvel/wreeto_official)) `AGPL-3.0` `Ruby`
 - [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code](https://github.com/josephernest/writing)) `MIT` `Javascript`
+- [Notesnook](https://notesnook.com/) - A fully open source & end-to-end encrypted note taking alternative to Evernote. ([Demo](https://app.notesnook.com/), [Source Code](https://github.com/streetwriters/notesnook)), `GPL-3.0` `Javascript`
 
 
 ### Office Suites
